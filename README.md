@@ -1,5 +1,5 @@
 Tic-Tac-Toe Game
-This repository contains a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
+This repository contains a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It uses JavaScript for the logic building and HTML, CSS for the styles.
 
 Features
 Gameplay: Allows two players to take turns clicking on the grid to place their respective symbols (X or O).
@@ -16,3 +16,4 @@ Click on any empty box in the grid to place your symbol (X or O).
 The game will automatically detect when a player has won by getting three of their symbols in a row.
 If a player wins, their winning combination will be highlighted, and the game will display a message indicating the winner.
 Click the restart button to reset the game and start a new round.
+
