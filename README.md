@@ -14,6 +14,6 @@ JavaScript (script.js): Implements the game logic, including functions for handl
 How to Play
 Click on any empty box in the grid to place your symbol (X or O).
 The game will automatically detect when a player has won by getting three of their symbols in a row.
-If a player wins, their winning combination will be highlighted, and the game will display a message indicating the winner.
-Click the restart button to reset the game and start a new round.
+If a player wins their winning combination will be highlighted, and the game will display a message indicating the winner.
+Click the restart button to restart the game and start a new round.
 
